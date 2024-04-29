@@ -29,4 +29,8 @@ Vamos criar um **e-commerce**, para a *empresa X*.
 
 ### Imagem local
 
-![Imagem](img/OIG2.jpg)
+![Imagem](img/OIP.jpg)
+
+#### Imagem Externa
+
+![Imagem qualquer dois](https://www.bing.com/ck/a?!&&p=7159891bdb8d7585JmltdHM9MTcxNDM0ODgwMCZpZ3VpZD0wZWIyZTc2My00MjljLTYyMWYtMzY5My1mMzA2NDNlNTYzYTkmaW5zaWQ9NTU1Nw&ptn=3&ver=2&hsh=3&fclid=0eb2e763-429c-621f-3693-f30643e563a9&u=a1L2ltYWdlcy9zZWFyY2g_cT1sb2dvJTIwcGhwJkZPUk09SVFGUkJBJmlkPUExOTE0NDhGNDQ2NjJEQ0VDMEQzOEUzQjg5MjhCMEUyOTBENDY0OEQ&ntb=1)
