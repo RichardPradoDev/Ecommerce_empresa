@@ -38,3 +38,5 @@ Vamos criar um **e-commerce**, para a *empresa X*.
 ## Links interessantes
 
 [Google](https://www.google.com.br)
+
+Contribuidor principal : <https://github.com/RichardPradoDev>
