@@ -42,3 +42,11 @@ Vamos criar um **e-commerce**, para a *empresa X*.
 Contribuidor principal : <https://github.com/RichardPradoDev>
 
 [![Logo do PHP](https://pngimg.com/uploads/php/php_PNG35.png)](https://github.com/RichardPradoDev)
+
+## Código da função soma
+
+```javascript
+function soma(a,b){
+    return a + b;
+    
+}
