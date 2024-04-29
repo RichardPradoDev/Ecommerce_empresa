@@ -29,7 +29,7 @@ Vamos criar um **e-commerce**, para a *empresa X*.
 
 ### Imagem local
 
-![Imagem](img/OIP.jpg)
+![Imagem](img/OIP.jpeg)
 
 #### Imagem Externa
 
