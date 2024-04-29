@@ -26,3 +26,7 @@ Vamos criar um **e-commerce**, para a *empresa X*.
     3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+### Imagem local
+
+![Imagem](img/OIG2.jpg)
