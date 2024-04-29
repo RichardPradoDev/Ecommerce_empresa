@@ -40,3 +40,5 @@ Vamos criar um **e-commerce**, para a *empresa X*.
 [Google](https://www.google.com.br)
 
 Contribuidor principal : <https://github.com/RichardPradoDev>
+
+[![Logo do PHP](https://pngimg.com/uploads/php/php_PNG35.png)](https://github.com/RichardPradoDev)
