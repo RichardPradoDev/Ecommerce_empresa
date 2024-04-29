@@ -34,3 +34,7 @@ Vamos criar um **e-commerce**, para a *empresa X*.
 #### Imagem Externa
 
 ![Imagem qualquer dois](https://pngimg.com/uploads/php/php_PNG35.png)
+
+## Links interessantes
+
+[Google](https://www.google.com.br)
